@@ -37,7 +37,7 @@ export const translations = {
     // GDR Companion
     project3Title: 'GDR Companion',
     project3Summary: 'Un gestore di schede personaggio, campagne e sessioni per giochi di ruolo con aggiornamenti in tempo reale.',
-    project3Desc: "La mia calligrafia e' veramente pessima, e uno dei punti forti dei GDR e' la scheda personaggio (una sorta di carta d'identita' del personaggio immaginario) che solitamente viene stampata e compilata a mano. Da amante dei giochi di ruolo volevo creare un sito comodo e utile per gestire schede personaggio e campagne. Qualcosa di semplice anche per chi non ha mai giocato di ruolo. La cosa importante era avere un aggiornamento in tempo reale della mappa e dei personaggi durante le sessioni di gioco, e per quello ho utilizzato Convex.",
+    project3Desc: "La mia grafia e' veramente pessima, e uno dei punti forti dei GDR e' la scheda personaggio (una sorta di carta d'identita' del personaggio immaginario) che solitamente viene stampata e compilata a mano. Da amante dei giochi di ruolo volevo creare un sito comodo e utile per gestire schede personaggio e campagne. Qualcosa di semplice anche per chi non ha mai giocato di ruolo. La cosa importante era avere un aggiornamento in tempo reale della mappa e dei personaggi durante le sessioni di gioco, e per quello ho utilizzato Convex.",
 
     // AI
     project4Title: 'IA',
